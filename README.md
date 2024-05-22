@@ -16,5 +16,8 @@ phone code
 
 sms pin
 APJUbSciiMU+Lnt2isymMA==
+
+microsoft & onedrive
+75xVQIpaYzSbgBW7GHNyMLCXUpdRJlJEY/fsbazcpyJRPGbSbqQAAJ6P+HHpy+j4
 ```
 
